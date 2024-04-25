@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../OneDrive/Desktop/likelion"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-study",
+		"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace"
+	}
+}
